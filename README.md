@@ -7,7 +7,7 @@ Author: Foti Mougos<br>
 This week we will update our portfolio website with links to our updated GitHub and Linked in
 
 ### Website Demo
-![PortfolioView](assets/images/demo.png "Portfolio View")
+![PortfolioView](assets/img/demo.png "Portfolio View")
 
 ### Lessons Learned:
 
